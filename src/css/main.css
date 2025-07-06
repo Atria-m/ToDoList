@@ -956,7 +956,7 @@ video {
 @font-face {
   font-family: "IRANSans";
 
-  src: url("/fonts/IRANSans-web.woff") format("woff");
+  src: url("../fonts/IRANSans-web.woff") format("woff");
 
   font-weight: normal;
 

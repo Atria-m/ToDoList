@@ -9,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        iransans: ["IRANSans", "sans-serif"],
+        iransans: ['IRANSans', 'sans-serif'],
       },
       keyframes: {
         "fade-in": {
